@@ -1,4 +1,10 @@
-seed
+Seeds cellular automaton 
 ====
+Project on GitHub:
+https://github.com/cheshaneko/seed
 
-seed
+For building use:
+
+    $ qmake
+    $ make
+
