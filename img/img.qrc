@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>media-playback-start.svg</file>
+        <file>media-playback-pause.svg</file>
+        <file>go-next.svg</file>
+        <file>folder.svg</file>
+        <file>applications-system.svg</file>
+        <file>media-playback-stop.svg</file>
+    </qresource>
+    <qresource prefix="/patterns">
+        <file>mypattern.l</file>
+    </qresource>
+</RCC>
